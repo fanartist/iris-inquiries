@@ -1,0 +1,9 @@
+# Site settings
+title: Senior Year
+author:
+  name: Iris Qu
+  email: irisqu.831@gmail.com
+description: "For my dad, mom, and Ethan"
+
+# Build settings
+remote_theme: jekyll/minima
