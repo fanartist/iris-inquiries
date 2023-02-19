@@ -6,12 +6,3 @@ author:
 description: "For my dad, mom, and Ethan"
 
 # Build settings
-
-
-  <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
