@@ -3,6 +3,8 @@ layout: default
 title: Journal
 ---
 
+these posts are sorted most recent to the oldest!
+
 <ul>
   {% for post in site.posts %}
     <li>

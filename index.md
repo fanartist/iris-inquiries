@@ -3,4 +3,6 @@ layout: default
 title: Home
 ---
 
-s
+To my family!!
+
+Thank you for years of unfailing support. 
