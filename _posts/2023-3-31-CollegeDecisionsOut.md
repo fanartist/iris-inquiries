@@ -22,4 +22,4 @@ I'd like to preface with saying that I am quite apologetic that I couldn't fulfi
 
 I was the most excited to recieve Stanford's acceptance, then UF, and then following that, Northwestern and Vanderbilt.
 
-I am glad I was able to give you guys the experience of your daughter getting into a prestigious school. 
+I am glad I was able to give you guys the experience of your daughter getting into a prestigious school, even if it wasn't an ivy league. But I think i'm more happy about getting into Stanford than some ivy leagues, such as dartmouth or cornell, just because Stanford has more stem opportunities and their premed track is supposedly better. and of course, I'm also realy grateful. I will make you guys proud.
