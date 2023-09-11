@@ -47,7 +47,7 @@ she is a CCP youth and flexed her badge to me. she told me about a bunch of tour
 7/21
 we walked so much this morning. We separated into five groups of four. in my group there was chloe my dorm mate, joyce, and tiffany. we went to many towers and did so many things. 我的腿很痛。走的太多了。a boy was sweating buckets and another boy (michael) almost got a heatstroke. we are delicious food again at lunch and in the afternoon we went to a boat museum and another history museum.
 we ate dinner a little earlier today because we got back early. three of the main leaders weren’t with us for dinner, so i took a picture of the food instead
-![food](/assets/img/quanzhou_food.png){: width= "50"}
+![food](/assets/img/quanzhou_food.png){ width: 50px;}
 
 
 in the evening, we were supposed to play among us in racy’s room 702 but my stomach and head was hurting from the sundae that ryan and raymond’s mom got everyone. i stayed back and later chloe came back to check up on me. she is so sweet. when she came my headache stopped :) and me and chloe watched the emoji movie and started the live action beauty and the beast (but fell asleep midway through).
